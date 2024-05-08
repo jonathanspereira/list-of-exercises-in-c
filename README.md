@@ -1,6 +1,9 @@
 # List of exercises in C
 
-## List of exercises proposed by the programming language discipline in c:
+## List of exercises proposed by the programming language discipline in c.
+
+- The projects were developed in IDE CODE::BLOCKS.
+
 
 ###### - Exercício 01:
 
