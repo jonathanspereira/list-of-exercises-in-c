@@ -2,14 +2,15 @@
 #include <stdlib.h>
 
 /*Exercício 02:
-**Crie um algoritmo que Leia um número inteiro e imprima seu sucessor e seu antecessor.
-*/
+ *Crie um algoritmo que Leia um número inteiro e imprima seu sucessor e seu antecessor.
+ */
 
 int main()
 {
     int number;
 
-    printf("Digite um numero inteiro: ");
+    printf("\nCalculo de antecessor e sucessor");
+    printf("\n\n- Digite um numero inteiro: ");
     scanf("%d", &number);
 
     int antecessor = number - 1;

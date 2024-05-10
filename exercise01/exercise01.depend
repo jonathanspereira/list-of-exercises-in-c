@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1715173346 source:/home/jonathan/Documentos/estudos/faculdade/list-of-exercises-in-c/exercise01/main.c
+1715347759 source:/home/jonathan/Documentos/estudos/faculdade/list-of-exercises-in-c/exercise01/main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
 

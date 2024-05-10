@@ -16,6 +16,7 @@ int main() {
     printf("\n- Ola, informe o saldo da aplicação: R$ ");
     scanf("%f", &saldoAplicacao);
 
+    //Calculo do saldo com reajuste
     float novoSaldo = saldoAplicacao + (saldoAplicacao * 0.01);
 
     printf("\nO novo saldo com reajuste de 1%% e de R%% %.2f\n", novoSaldo);

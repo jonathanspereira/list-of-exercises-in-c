@@ -19,6 +19,7 @@ int main(){
     printf("\n- Agora informe o salario fixo por mes de %s R$: ", nomeVendedor);
         scanf("%f", &salarioFixo);
 
+    //Verifica se o valor do salario é valido
     if (salarioFixo <= 0){
         printf("\n## ERRO: Informe um salario positivo valido!\n");
 
@@ -28,6 +29,7 @@ int main(){
     printf("\n- Agora informe o total de vendas efetuadas no mes por %s em R$: ", nomeVendedor);
         scanf("%f", &vendasTotal);
 
+    //Calcula o salario final com a comissão
     float salarioFinal = salarioFixo + (vendasTotal * 0.15);
 
     printf("\nO vendedor %s possui um salario fixo por mes de R$ %.2f e seu \nsalario final com a comissao pode chegar em R$ %.2f por mes \n", nomeVendedor, salarioFixo, salarioFinal);

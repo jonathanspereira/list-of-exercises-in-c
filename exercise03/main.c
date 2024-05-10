@@ -2,12 +2,12 @@
 #include <stdlib.h>
 
 /*Exercício 03:
-**Crie um algoritmo que receba quatro números e imprima a média ponderada,
-**sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4.
-*/
+ *Crie um algoritmo que receba quatro números e imprima a média ponderada,
+ *sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4.
+ */
 
-int main(){
-
+int main()
+{
     int num1, num2, num3, num4;
 
     printf("Olá, digite 4 numeros inteiros a seguir:\n");

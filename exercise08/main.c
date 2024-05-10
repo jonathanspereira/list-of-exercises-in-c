@@ -4,7 +4,7 @@
 /*Exercício 08:
  *Crie um algoritmo que receba os valores para xnum1, xnum2 e xnum3,
  *calcule e exiba o valor de X, sabendo-se que:
- * x = xnum1 + (xnum2 / xnum3+ xnum1) + 2(xnum1 - xnum2)
+ *X = xnum1 + (xnum2 / xnum3+ xnum1) + 2(xnum1 - xnum2)
  */
 
 int main(){
@@ -22,6 +22,7 @@ int main(){
     printf("\n- Olá informe o terceiro numero real: ");
     scanf("%f", &xnum3);
 
+    // Calcula o valor de X
     numX = xnum1 + (xnum2 / xnum3+ xnum1) + (2 * (xnum1 - xnum2));
 
     printf("\n\nResultado do calculo de 'X' é: %.3f \n", numX);
