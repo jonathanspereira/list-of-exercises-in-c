@@ -1,35 +1,49 @@
-# Lista de exercícios em C
+# Lista de Exercícios em C
 
-## Lista de exercícios propostos pela disciplina de linguagem de programação em C.
+Bem-vindo à lista de exercícios da disciplina de programação em C! Aqui você encontrará uma série de exercícios práticos para aprimorar suas habilidades na linguagem C, todos desenvolvidos na IDE CODE::BLOCKS.
 
-- Os projetos foram desenvolvidos na IDE CODE::BLOCKS.
+## Exercícios
 
-###### - Exercício 01:  [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise01)
-Crie um algoritmo que leia dois valores inteiros e os armazena em duas variáveis. Logo após, o programa troca os valores contidos nas variáveis entre si e os exibe ao usuário.
+### [Exercício 01](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise01)
+**Troca de Valores**
+- **Descrição:** Crie um algoritmo que leia dois valores inteiros e os armazene em duas variáveis. Depois, troque os valores entre as variáveis e exiba-os ao usuário.
 
-###### - Exercício 02: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise02)
-Crie um algoritmo que Leia um número inteiro e imprima seu sucessor e seu antecessor.
+### [Exercício 02](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise02)
+**Sucessor e Antecessor**
+- **Descrição:** Crie um algoritmo que leia um número inteiro e imprima seu sucessor e seu antecessor.
 
-###### - Exercício 03: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise03)
-Crie um algoritmo que receba quatro números e imprima a média ponderada, sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4.
+### [Exercício 03](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise03)
+**Média Ponderada**
+- **Descrição:** Crie um algoritmo que receba quatro números e imprima a média ponderada, com os pesos respectivamente: 1, 2, 3 e 4.
 
-###### - Exercício 04: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise04)
-Crie um algoritimo que leia uma temperatura em graus centígrados e apresentá-la convertida em graus Fahrenheit.
+### [Exercício 04](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise04)
+**Conversão de Temperatura**
+- **Descrição:** Crie um algoritmo que leia uma temperatura em graus centígrados e a converta para graus Fahrenheit.
 
-###### - Exercício 05: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise05)
-Escrever um algoritmo para determinar o consumo médio de um automóvel sendo fornecida a KM rodada e o total de combustível gasto. O resultado deverá apresentar a unidade de medida km/l.
+### [Exercício 05](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise05)
+**Consumo de Combustível**
+- **Descrição:** Escreva um algoritmo para determinar o consumo médio de um automóvel, fornecendo a quilometragem rodada e o total de combustível gasto (km/l).
 
-###### - Exercício 06: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise06)
-Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês.
+### [Exercício 06](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise06)
+**Salário do Vendedor**
+- **Descrição:** Escreva um algoritmo que leia o nome de um vendedor, seu salário fixo e o total de vendas efetuadas no mês. Com 15% de comissão sobre as vendas, informe o nome do vendedor, o salário fixo e o salário final.
 
-###### - Exercício 07: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise07)
-Fazer um algoritmo que recebe o saldo de uma aplicação e escreve o novo saldo, considerando o reajuste de 1 %.
+### [Exercício 07](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise07)
+**Reajuste de Saldo**
+- **Descrição:** Faça um algoritmo que receba o saldo de uma aplicação e calcule o novo saldo com um reajuste de 1%.
 
-###### - Exercício 08: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise08)
-Crie um algoritmo que receba os valores para xnum1, xnum2 e xnum3, calcule e exiba o valor de X, sabendo-se que: X = xnum1 + (xnum2 / xnum3+ xnum1) + 2(xnum1 - xnum2)
+### [Exercício 08](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise08)
+**Cálculo de X**
+- **Descrição:** Crie um algoritmo que receba os valores para xnum1, xnum2 e xnum3, e calcule o valor de X usando a fórmula: X = xnum1 + (xnum2 / xnum3 + xnum1) + 2(xnum1 - xnum2).
 
-###### - Exercício 09: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise09)
-Crie um algoritmo que recebe a razão de uma PA e o valor do 1º termo. Calcule e escreva o 10º termo da série.
+### [Exercício 09](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise09)
+**Progressão Aritmética**
+- **Descrição:** Crie um algoritmo que receba a razão de uma PA e o valor do 1º termo, e calcule o 10º termo da série.
 
-###### - Exercício 10: [Acese aqui!](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise10)
-Em épocas de pouco dinheiro, os comerciantes estão procurando aumentar suas vendas oferecendo desconto. Faça um algoritmo que possa entrar com o valor de um produto e creva o novo valor tendo em vista que o desconto foi de 9%.
+### [Exercício 10](https://github.com/jonathanspereira/list-of-exercises-in-c/tree/main/exercise10)
+**Desconto em Produto**
+- **Descrição:** Em tempos de crise, comerciantes buscam aumentar vendas oferecendo descontos. Faça um algoritmo que receba o valor de um produto e calcule o novo valor com um desconto de 9%.
+
+---
+
+Explore os links dos exercícios e use como exemplos em futuros exercícios! 
